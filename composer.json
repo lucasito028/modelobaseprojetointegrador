@@ -1,0 +1,20 @@
+{
+  "name": "principal/projetointegradorphp",
+  "description": "This a Solution on Composer",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "App\\",
+      "Core\\": "Core\\"
+    },
+    "files": [
+      "config/config.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "lucasito"
+    }
+  ],
+  "require": {}
+}
